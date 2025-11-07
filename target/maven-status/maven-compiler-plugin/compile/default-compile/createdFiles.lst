@@ -1,0 +1,5 @@
+ec\edu\espoch\tipoautomovil\enumeracion\TipoMarcas.class
+ec\edu\espoch\tipoautomovil\TipoAutomovil.class
+ec\edu\espoch\tipoautomovil\automovil\Automovil.class
+ec\edu\espoch\tipoautomovil\enumeracion\ColorAutomovil.class
+ec\edu\espoch\tipoautomovil\enumeracion\TipoCombustible.class
